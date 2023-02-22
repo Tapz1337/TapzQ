@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/382871413758885889)](https://discord.com/users/382871413758885889)
+(https://lanyard.cnrad.dev/api/382871413758885889)](https://discord.com/users/382871413758885889)
 
 
 - 👋 **Hi, I’m Tapz**
